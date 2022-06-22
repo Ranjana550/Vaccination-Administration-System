@@ -1,0 +1,1 @@
+#### It is a console based C++ application which helps easy and suitable system to keep track of vaccination done in particular zone also keeps record of information of all the vaccinated people along with the vaccine statistics.
